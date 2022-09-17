@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SantehnikaTestApp</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="map_fragment">Map Fragment</string>
+</resources>
