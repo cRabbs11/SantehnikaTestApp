@@ -1,7 +1,8 @@
-package com.ekochkov.santehnikatestapp
+package com.ekochkov.santehnikatestapp.view.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ekochkov.santehnikatestapp.R
 
 class MainActivity : AppCompatActivity() {
 

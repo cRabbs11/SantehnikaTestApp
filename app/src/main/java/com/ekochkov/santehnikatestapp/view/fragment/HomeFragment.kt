@@ -1,4 +1,4 @@
-package com.ekochkov.santehnikatestapp
+package com.ekochkov.santehnikatestapp.view.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
+import com.ekochkov.santehnikatestapp.R
 import com.ekochkov.santehnikatestapp.databinding.FragmentHomeBinding
 import com.ekochkov.santehnikatestapp.utils.Constants
 import com.ekochkov.santehnikatestapp.viewModel.HomeFragmentViewModel

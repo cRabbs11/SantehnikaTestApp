@@ -1,4 +1,4 @@
-package com.ekochkov.santehnikatestapp
+package com.ekochkov.santehnikatestapp.view.fragment
 
 import android.Manifest
 import android.content.pm.PackageManager
