@@ -17,7 +17,7 @@
 
     <fragment
         android:id="@+id/mapFragment"
-        android:name="com.ekochkov.santehnikatestapp.MapFragment"
+        android:name="com.ekochkov.santehnikatestapp.view.fragment.MapFragment"
         android:label="@string/map_fragment"
         tools:layout="@layout/fragment_map">
     </fragment>
